@@ -10,4 +10,4 @@
 [View demo](https://sindhuinti.github.io/Tindog-website/)
 
 ## Developed by
-** Sindhu Inti ** 👩🏻‍💻
+**Sindhu Inti** 👩🏻‍💻
